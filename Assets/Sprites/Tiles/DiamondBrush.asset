@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df574d0084b1a6e448730c607533c91a, type: 3}
+  m_Name: DiamondBrush
+  m_EditorClassIdentifier: 
+  m_Prefabs:
+  - {fileID: 4030497074672588165, guid: 80ac93b46ff483d4984cbc5be74defe7, type: 3}
+  m_PerlinScale: 0.5
+  m_Z: 0
